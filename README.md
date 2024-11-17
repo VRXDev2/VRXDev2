@@ -1,4 +1,7 @@
-### Hi! I'm VRX.
-#### I am a Full-Stack developer, but I mainly specify in coding Minecraft server plugins.
-#### Here are my GitHub stats :D
-![VRXDev2's GitHub stats](https://github-readme-stats.vercel.app/api?username=VRXDev2&theme=radical&show_icons=true)
+### Hello, I'm VRX.
+#### I am a Minecraft plugin developer, but I also do a bit of web or bot development.
+
+![VRXDev's GitHub stats](https://github-readme-stats.vercel.app/api?username=VRXDev2&theme=midnight-purple&show_icons=true)
+
+![VRXDev's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=VRXDev2&theme=midnight-purple&show_icons=true)
+
